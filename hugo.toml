@@ -1,6 +1,6 @@
 baseURL = 'https://1mb4dr.github.io/netora/'
 languageCode = 'en-us'
-title = 'myblogs'
+#title = 'myblogs'
 theme = "hugo-theme-console"
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
