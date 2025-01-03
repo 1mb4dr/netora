@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://1mb4dr.github.io/netora/'
 languageCode = 'en-us'
 title = 'myblogs'
 theme = "hugo-theme-console"
