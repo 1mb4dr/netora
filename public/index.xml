@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>netora</title>
+    <link>https://example.org/</link>
+    <description>Recent content on netora</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>A minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second.&#xA;Theme is based on a modern and minimal Terminal CSS framework.&#xA;Live demo https://mrmierzejewski.com/hugo-theme-console/ Installation From the root of your Hugo site, clone the theme into themes/hugo-theme-console by running :&#xA;$ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hugo-theme-console See the Hugo documentation for more information.&#xA;Configuration Set theme parameter in your config file:</description>
+    </item>
+  </channel>
+</rss>
