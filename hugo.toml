@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://netora.pages.dev/'
 languageCode = 'en-us'
 title = 'netora'
 theme = "hugo-theme-console"
