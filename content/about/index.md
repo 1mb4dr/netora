@@ -1,79 +1,63 @@
-+++
-date = "2016-11-05T21:05:33+05:30"
-title = "About"
-+++
+# About Me
 
-A minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second.
+Hey there! I’m **Badr**, a curious mind who loves tinkering with networks, securing systems, and automating the boring stuff. I’ve spent years diving into the world of **firewalls, cloud networking, and network access control (NAC)**, and I’m here to share what I’ve learned along the way.
 
-Theme is based on a modern and minimal [Terminal CSS](https://terminalcss.xyz/) framework. 
+This website is my playground for exploring ideas, building labs, and documenting my experiments. Whether it’s simulating complex networks with **ContainerLab**, automating security policies, or designing resilient cloud architectures, I’m all about making networks smarter, faster, and more secure.
 
-![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true)
+## Why This Website?
 
-## Live demo
+I started this site to:
+- **Share practical guides** on network security and automation.
+- **Document my lab setups** and experiments—because breaking things is the best way to learn!
+- **Explore new tools and technologies** that make networking and security more efficient.
+- **Connect with others** who are passionate about building secure and scalable systems.
 
-* [https://mrmierzejewski.com/hugo-theme-console/](https://mrmierzejewski.com/hugo-theme-console/)
+If you’re into networking, security, or automation, you’ll feel right at home here.
 
-## Installation
+## What I’m Into
 
-From the root of your Hugo site, clone the theme into ```themes/hugo-theme-console``` by running :
+Here are some of the tools and topics I love working with:
+- **Firewalls**: Designing and managing secure network boundaries.
+- **Cloud Networking**: Building and securing networks in AWS, Azure, and GCP.
+- **ContainerLab**: Simulating network topologies for testing and learning.
+- **NAC (Network Access Control)**: Implementing policies to control who and what gets access to the network.
+- **Automation**: Using tools like **Ansible**, **Python**, and **Terraform** to automate repetitive tasks and streamline operations.
+- **Monitoring & Visualization**: Tools like **Grafana**, **Prometheus**, and **ELK Stack** to keep an eye on network performance and security.
 
-```
-$ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hugo-theme-console
-```
-    
-See the [Hugo documentation](https://gohugo.io/hugo-modules/theme-components/) for more information.
+---
 
-## Configuration
+## How This Site Was Built
 
-Set theme parameter in your config file:
+This website is powered by:
+- **[Hugo](https://gohugo.io/)**: A blazing-fast static site generator.
+- **[Hugo Theme Console](https://github.com/mrmierzejewski/hugo-theme-console)**: A sleek and minimal theme for a clean reading experience.
+- **[Cloudflare Pages](https://pages.cloudflare.com/)**: For fast and reliable hosting.
+- **[GitHub](https://github.com/)**: To manage and version-control the code.
 
-```
-theme = "hugo-theme-console"
-```
+---
 
-## Quick start
+## Let’s Connect!
 
-After installation, take a look in the `exampleSite` folder at. This directory contains an example config file and the content for the demo.
+If you’re as passionate about networking, security, and automation as I am, let’s chat! Whether you want to collaborate, share ideas, or just geek out about the latest tools, feel free to reach out.
 
-```
-  exampleSite
-  ├── config.toml
-  ├── content
-  │   ├── about
-  │   │   └── index.md
-  │   └── photos
-  │   │   └── arizona-us
-  │   │       ├── arizona-us.jpg
-  │   │       └── index.md
-  │   └── posts
-  │       └── introduction
-  │           └── index.md
-  ├── layouts
-  │
-  └── static
-```
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/bbouazizen)
+- **Contact Key**: If you’d like to send me an encrypted message, here’s my PGP public key:
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-Copy at least the `config.toml` in the root directory of your website. Overwrite the existing config file if necessary.
+mDMEZ3lnDBYJKwYBBAHaRw8BAQdA4a8THE51c5Db0eSEaZXJHiz/jnIw6vzPo65q
+vmolmO20NGJhZHIgYm91YXppemVuIChteSBQa2V5KSA8YmFkci5ib3Vheml6ZW4x
+QGdtYWlsLmNvbT6IkwQTFgoAOxYhBNmVnHPuTRS6TG4EAMEyJFzB5wtYBQJneWcM
+AhsDBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEMEyJFzB5wtYVlUA/Aks
+j8TXFLc/vP6uYWQJ8Cf+JXIrkb3KZ2FgrCMVp/C7AQDkWq2n/x7kXmNTdPMHEmOQ
+tS76Z3L2GrEXR5XmgsPhALg4BGd5ZwwSCisGAQQBl1UBBQEBB0A52OV+ITRuZCEX
+SZleHXbZEl732k5yH36sWJBcuCwCOgMBCAeIeAQYFgoAIBYhBNmVnHPuTRS6TG4E
+AMEyJFzB5wtYBQJneWcMAhsMAAoJEMEyJFzB5wtYtO8A/2nhkDHjpJFR3dCJn/hx
+CqZ8goxyyLUw8FgXs/RNjOJkAQC/I/QZZpoo6UfS3gRpbzUJ+Nm+/+mr+m/n/O21
+BQBABg==
+=apk7
+-----END PGP PUBLIC KEY BLOCK-----
+You can use this key to encrypt your emails or messages for secure communication.
 
-Hugo includes a development server, so you can view your changes as you go -
-very handy. Spin it up with the following command:
+---
 
-```
-hugo serve
-```
-
-Now you can go to [http://localhost:1313](http://localhost:1313) and the theme should be visible.
-
-## Example Site
-
-To run the example site, please type the following command.
-
-```
-make hugo-server
-```
-
-## License
-
-Copyright © 2024 [Marcin Mierzejewski](https://mrmierzejewski.com/)
-
-The theme is released under the MIT License. Check the [original theme license](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md) for additional licensing information.
+Together, we can build smarter, more secure networks. Looking forward to connecting with you!
