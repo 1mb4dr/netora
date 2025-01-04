@@ -23,6 +23,7 @@ Here are some of the tools and topics I love working with:
 - **NAC (Network Access Control)**: Implementing policies to control who and what gets access to the network.
 - **Automation**: Using tools like **Ansible**, **Python**, and **Terraform** to automate repetitive tasks and streamline operations.
 - **Monitoring & Visualization**: Tools like **Grafana**, **Prometheus**, and **ELK Stack** to keep an eye on network performance and security.
+- **AI in Security and Networking**: Exploring how AI can enhance threat detection, network optimization, and automation.
 
 ---
 
@@ -42,22 +43,19 @@ If you’re as passionate about networking, security, and automation as I am, le
 
 - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/bbouazizen)
 - **Contact Key**: If you’d like to send me an encrypted message, here’s my PGP public key:
------BEGIN PGP PUBLIC KEY BLOCK-----
 
-mDMEZ3lnDBYJKwYBBAHaRw8BAQdA4a8THE51c5Db0eSEaZXJHiz/jnIw6vzPo65q
-vmolmO20NGJhZHIgYm91YXppemVuIChteSBQa2V5KSA8YmFkci5ib3Vheml6ZW4x
-QGdtYWlsLmNvbT6IkwQTFgoAOxYhBNmVnHPuTRS6TG4EAMEyJFzB5wtYBQJneWcM
-AhsDBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEMEyJFzB5wtYVlUA/Aks
-j8TXFLc/vP6uYWQJ8Cf+JXIrkb3KZ2FgrCMVp/C7AQDkWq2n/x7kXmNTdPMHEmOQ
-tS76Z3L2GrEXR5XmgsPhALg4BGd5ZwwSCisGAQQBl1UBBQEBB0A52OV+ITRuZCEX
-SZleHXbZEl732k5yH36sWJBcuCwCOgMBCAeIeAQYFgoAIBYhBNmVnHPuTRS6TG4E
-AMEyJFzB5wtYBQJneWcMAhsMAAoJEMEyJFzB5wtYtO8A/2nhkDHjpJFR3dCJn/hx
-CqZ8goxyyLUw8FgXs/RNjOJkAQC/I/QZZpoo6UfS3gRpbzUJ+Nm+/+mr+m/n/O21
-BQBABg==
-=apk7
------END PGP PUBLIC KEY BLOCK-----
-You can use this key to encrypt your emails or messages for secure communication.
+  ```plaintext
+  -----BEGIN PGP PUBLIC KEY BLOCK-----
 
----
-
-Together, we can build smarter, more secure networks. Looking forward to connecting with you!
+  mDMEZ3lnDBYJKwYBBAHaRw8BAQdA4a8THE51c5Db0eSEaZXJHiz/jnIw6vzPo65q
+  vmolmO20NGJhZHIgYm91YXppemVuIChteSBQa2V5KSA8YmFkci5ib3Vheml6ZW4x
+  QGdtYWlsLmNvbT6IkwQTFgoAOxYhBNmVnHPuTRS6TG4EAMEyJFzB5wtYBQJneWcM
+  AhsDBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEMEyJFzB5wtYVlUA/Aks
+  j8TXFLc/vP6uYWQJ8Cf+JXIrkb3KZ2FgrCMVp/C7AQDkWq2n/x7kXmNTdPMHEmOQ
+  tS76Z3L2GrEXR5XmgsPhALg4BGd5ZwwSCisGAQQBl1UBBQEBB0A52OV+ITRuZCEX
+  SZleHXbZEl732k5yH36sWJBcuCwCOgMBCAeIeAQYFgoAIBYhBNmVnHPuTRS6TG4E
+  AMEyJFzB5wtYBQJneWcMAhsMAAoJEMEyJFzB5wtYtO8A/2nhkDHjpJFR3dCJn/hx
+  CqZ8goxyyLUw8FgXs/RNjOJkAQC/I/QZZpoo6UfS3gRpbzUJ+Nm+/+mr+m/n/O21
+  BQBABg==
+  =apk7
+  -----END PGP PUBLIC KEY BLOCK-----
