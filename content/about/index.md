@@ -3,8 +3,6 @@ date = "2025-01-03T21:05:33+05:30"
 title = "About"
 +++
 
-# About Me
-
 Hey there! I’m **Badr**, a curious mind who loves tinkering with networks, securing systems, and automating the boring stuff. I’ve spent years diving into the world of **firewalls, cloud networking, and network access control (NAC)**, and I’m here to share what I’ve learned along the way.
 
 This website is my playground for exploring ideas, building labs, and documenting my experiments. Whether it’s simulating complex networks with **ContainerLab**, automating security policies, or designing resilient cloud architectures, I’m all about making networks smarter, faster, and more secure.
